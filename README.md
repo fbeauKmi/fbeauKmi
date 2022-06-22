@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fbeauKmi
 - 👀 I’m interested in learning everyday
 - 🌱 I’m currently learning 3D CAD
-- 💞️ I’m looking to collaborate on many project from 
+- 💞️ I’m looking to collaborate on many projects from Web apps to IOT firmwares 
 - 📫 How to reach me : Discord : fboc#1751 
 
 <!---
